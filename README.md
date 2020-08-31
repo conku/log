@@ -2,12 +2,12 @@
 
 A logger middleware for Gin
 
-[![GoDoc](https://godoc.org/github.com/qor/log?status.svg)](https://godoc.org/github.com/qor/log)
+[![GoDoc](https://godoc.org/github.com/conku/log?status.svg)](https://godoc.org/github.com/conku/log)
 
 ## Usage
 
 ```go
-import "github.com/qor/log"
+import "github.com/conku/log"
 
 func main() {
   router := gin.New()
